@@ -1,0 +1,23 @@
+/**
+ * rf.Sparks jQuery plugin
+ * 
+ * @version		1.0 (05/22/2009)
+ * @author 		Matt Kirman <http://mattkirman.com> <http://twitter.com/mattkirman>
+ * @requires 	jQuery v1.3 or later (May work with previous versions. Not tested)
+ * @link		http://mattkirman.com/2009/05/20/jquery-plugin-rfsparks/
+ *
+ * 
+ * This version is far from perfect as it is fairly resource hungry when you set
+ * the number of sparks to a fairly high number. This may be sorted in later releases.
+ * 
+ *
+ * Usage: $('#container').sparks();
+ *
+ * 
+ * For more indepth discussion and customisation visit the author's blog post
+ * at http://mattkirman.com/2009/05/20/jquery-plugin-rfsparks/
+ *
+ * 
+ * Tested in Firefox & Safari. Should work fine in IE.
+ * Any browser strangeness, please report. Contributions are more than welcome.
+ */
